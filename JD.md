@@ -1,4 +1,4 @@
-### Dvajs群的找票信息汇总
+### Dvajs群的招聘信息汇总
 
 - https://www.aidigger.com/
 这是我们公司官网。
