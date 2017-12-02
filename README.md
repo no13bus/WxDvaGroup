@@ -13,18 +13,18 @@
 
 #### 社区资源
 - You Don't Know JavaScript 的作者在frontmaster 上的课程限时免费了 https://frontendmasters.com/courses/#free
-- egghead.io 上的redux 系列视频，redux 作者录的，官网好像也有链接。免费的
+- https://egghead.io/ 上的redux 系列视频，redux 作者录的，免费.
 
 
 #### 工具
-- 微信环境页面调试工具  https://github.com/remy/jsconsole  https://github.com/Tencent/vConsole
+- 微信环境页面调试工具  https://github.com/remy/jsconsole 和 https://github.com/Tencent/vConsole
 
 #### 项目
 - https://www.getpapercss.com/ 手写界面风格
 
 #### 书
-- 深入浅出React和Redux  https://book.douban.com/subject/27033213/
-- JavaScript设计模式与开发实践  https://book.douban.com/subject/26382780/
+- [深入浅出React和Redux](https://book.douban.com/subject/27033213/)
+- [JavaScript设计模式与开发实践](https://book.douban.com/subject/26382780/)
 
 
 
