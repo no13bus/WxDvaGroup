@@ -20,8 +20,8 @@
 #### 工具
 - 微信环境页面调试工具  https://github.com/remy/jsconsole 和 https://github.com/Tencent/vConsole
 
-#### 项目(群友项目或社区项目)
-- https://www.getpapercss.com/ 手写界面风格
+#### 项目
+- https://www.getpapercss.com/ 手写界面风格(来自社区)
 
 #### 书
 - [深入浅出React和Redux](https://book.douban.com/subject/27033213/)
