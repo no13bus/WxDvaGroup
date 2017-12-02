@@ -1,4 +1,4 @@
-### Dva.js群的好资源
+## Dva.js群的好资源
 
 #### 新手文档
 dvajs相关概念懵比的强烈建议先阅读知识字典   https://github.com/dvajs/dva-knowledgemap
