@@ -5,6 +5,7 @@
 - antd国内镜像站点  http://ant-design.gitee.io/index-cn
 - 没事多翻翻es6，就能少问些low问题 http://es6.ruanyifeng.com/
 - 代码较多，想让人帮忙review的时候可以用github的这个服务  https://gist.github.com/ , 国内用 https://gist.coding.net/ 这个
+
 #### 定期更新
 - 群早报   https://tinyletter.com/sorrycc
 - 历史群早报  https://github.com/sorrycc/blog/issues/50
@@ -19,7 +20,7 @@
 #### 工具
 - 微信环境页面调试工具  https://github.com/remy/jsconsole 和 https://github.com/Tencent/vConsole
 
-#### 项目
+#### 项目(群友项目或社区项目)
 - https://www.getpapercss.com/ 手写界面风格
 
 #### 书
