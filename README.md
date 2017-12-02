@@ -27,6 +27,6 @@
 - [JavaScript设计模式与开发实践](https://book.douban.com/subject/26382780/)
 
 
-### 招聘信息汇总
+#### 招聘信息汇总
 - [点我](https://github.com/no13bus/WxDvaGroup/blob/master/JD.md)
 
